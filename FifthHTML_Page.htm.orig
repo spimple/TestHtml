@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2> This is the Fifth Heading, Adding to h2 tag</h2>
+
+<h2> Fifth heading</h2>
+
+<h1>My Fifth Heading</h1>
+
+<<<<<<< HEAD
+<p>My Fifth paragraph.case-4</p>
+=======
+<p>My Fifth paragraph. Generating conflicts for Git Testing</p>
+>>>>>>> develop
+
+</body>
+</html>
