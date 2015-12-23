@@ -8,7 +8,11 @@
 
 <h1>My Fifth Heading</h1>
 
-<p>My Fifth paragraph. Generating conflicts for Git Testing.case-4</p>
+<<<<<<< HEAD
+<p>My Fifth paragraph.case-4</p>
+=======
+<p>My Fifth paragraph. Generating conflicts for Git Testing</p>
+>>>>>>> develop
 
 </body>
 </html>
